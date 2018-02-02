@@ -3,7 +3,7 @@
 using namespace std;
 
 const int MAX_ARR_SIZE = 50;
-const int MAX_ARR_SUM = 1000;
+const int MAX_ARR_SUM = 500;
 
 bool is_sum_possible[MAX_ARR_SUM+10][MAX_ARR_SUM+10][MAX_ARR_SIZE+10] = {};
 
