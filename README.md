@@ -1,2 +1,2 @@
-# samsung
+# practice
 test
